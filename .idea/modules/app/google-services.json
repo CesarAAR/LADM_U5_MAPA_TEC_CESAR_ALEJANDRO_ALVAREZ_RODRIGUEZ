@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498007714355",
+    "project_id": "ladmu5p1",
+    "storage_bucket": "ladmu5p1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498007714355:android:420bdb01920b567ef69146",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_mapa_tec_cesar_alejandro_alvarez_rodriguez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498007714355-vocn0odno9pjhs91p0qabs0anu3i1o3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.tepic.ladm_u5_mapa_tec_cesar_alejandro_alvarez_rodriguez",
+            "certificate_hash": "a86e58f1d64f98f3f10b6d92a6310064cdce505d"
+          }
+        },
+        {
+          "client_id": "498007714355-l3llc6k60g7o8km58fnoguil7dqglr0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hqsvZl0SpkEDBfw9VCymQslwCix8YYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498007714355-l3llc6k60g7o8km58fnoguil7dqglr0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
